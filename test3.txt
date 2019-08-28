@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 047B-1094
+
+ Directory of C:\Projects\github\test2
+
+08/28/2019  04:03 PM    <DIR>          .
+08/28/2019  04:03 PM    <DIR>          ..
+08/28/2019  04:00 PM                 7 README.md
+08/28/2019  04:01 PM               398 test.txt
+08/28/2019  04:01 PM               448 test2.txt
+08/28/2019  04:03 PM                 0 test3.txt
+               4 File(s)            853 bytes
+               2 Dir(s)  356,716,077,056 bytes free
